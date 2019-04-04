@@ -1,0 +1,5 @@
+spring:
+  data:
+    elasticsearch:
+      cluster-name: my-elasearch
+      cluster-nodes: 192.168.2.40:9300,192.168.2.41:9300
